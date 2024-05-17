@@ -67,6 +67,9 @@ Buat script untuk integrasi dengan key dan function prompt AI.
 Masukkan prompt AI untuk analisis tren, distribusi, korelasi, dan perbandingan dari dataset final.
 Tampilkan hasil dari prompt AI tersebut.
 
+# Kesimpulan 
+Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan proyek ETL dan visualisasi data secara lokal menggunakan Python dan alat-alat yang relevan. Sesuaikan setiap langkah sesuai dengan kebutuhan spesifik dan karakteristik proyek Anda untuk mencapai hasil yang optimal.
+
 
 
 
